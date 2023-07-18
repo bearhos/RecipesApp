@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "904427850521",
+    "project_id": "pushnoti-react-findjob",
+    "storage_bucket": "pushnoti-react-findjob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904427850521:android:21989330eae42ed6d51388",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904427850521-h5j6qg1q05nht2ma53isl59fvni2d3f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHWLZMyhaGWufeU2sSYexARl5AMrtdNlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904427850521-h5j6qg1q05nht2ma53isl59fvni2d3f7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904427850521-4klj7cpgbsot1i7fpgajk569vvgo0et5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FindingItJob"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

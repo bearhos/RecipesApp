@@ -1,0 +1,6 @@
+framework module react_native_version_number {
+  umbrella header "react-native-version-number-umbrella.h"
+
+  export *
+  module * { export * }
+}

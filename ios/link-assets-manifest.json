@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FontAwesome5_Brands.ttf",
+      "sha1": "3fa2d67cef22da5c3f3eb5730c6afbd6fecf0372"
+    },
+    {
+      "path": "src/assets/fonts/FontAwesome5_Regular.ttf",
+      "sha1": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3"
+    },
+    {
+      "path": "src/assets/fonts/FontAwesome5_Solid.ttf",
+      "sha1": "c1b9fae262f42868c075ac865a8ab34920e20a2c"
+    },
+    {
+      "path": "src/assets/fonts/FuturaStd/FuturaStdBold.otf",
+      "sha1": "4acca6749045d414d333cdb1821d936816362812"
+    },
+    {
+      "path": "src/assets/fonts/FuturaStd/FuturaStdBook.otf",
+      "sha1": "b97134d14404e5eb9ea1efe0988edbfd3788dd77"
+    },
+    {
+      "path": "src/assets/fonts/FuturaStd/FuturaStdMedium.otf",
+      "sha1": "61b4c601351f1ba82710e0da38a2a6d4bd1c6271"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.ttf",
+      "sha1": "61ec4de97a9ead751a986b4816c77186b93ae827"
+    }
+  ]
+}
